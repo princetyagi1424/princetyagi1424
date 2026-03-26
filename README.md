@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">LinkedIn</a> |
+<a href="href="https://www.linkedin.com/in/prince-tyagi-2147482aa" target="blank">LinkedIn</a> |
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">Instagram</a>
 </p>
 
