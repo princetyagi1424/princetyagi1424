@@ -2,8 +2,8 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="href="https://www.linkedin.com/in/prince-tyagi-2147482aa" target="blank">LinkedIn</a> |
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">Instagram</a>
+<a href="https://www.linkedin.com/in/prince-tyagi-2147482aa" target="blank">LinkedIn</a> |
+<a href="https://www.instagram.com/_princetyagig_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank">Instagram</a>
 </p>
 
 ---
