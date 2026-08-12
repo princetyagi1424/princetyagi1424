@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Programmer | C & Java Developer | DSA Learner | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;C+Programmer;Java+Developer;DSA+Learner;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=#FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;C+Programmer;Java+Developer;DSA+Learner;Always+Learning+New+Things!" />
 </p>
 
 ---
