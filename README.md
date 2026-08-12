@@ -115,6 +115,8 @@
 > **"Code. Learn. Build. Repeat." 🚀**
 #                   Thanks for visiting! Feel free to connect and let’s grow together. 🤝
 <p align="left"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmszY3d0aTBiMzRjZ25hY2NrZWhvY3l2eG52Z2RqbTRsOHV0Nm04OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QKDpE67Rc7rpjBmQPj/giphy.gif" width="500"/>
+</p>
+<p
   align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500"/>
 </p>
