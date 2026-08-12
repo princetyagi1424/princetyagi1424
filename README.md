@@ -42,6 +42,8 @@
 
 <img src="https://skillicons.dev/icons?i=c" height="60"/>
 
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+
 <img src="https://skillicons.dev/icons?i=java" height="60"/>
 
 <img src="https://skillicons.dev/icons?i=git" height="60"/>
@@ -111,5 +113,5 @@
 <p align="center">
 
 > **"Code. Learn. Build. Repeat." 🚀**
-
+#                   Thanks for visiting! Feel free to connect and let’s grow together. 🤝
 </p>
